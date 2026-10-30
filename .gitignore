@@ -1,0 +1,56 @@
+# Documents
+*.pdf
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+
+# Database dumps and backups
+*.sql
+*.bak
+*.backup
+*.dump
+*.mdb
+*.sqlite
+*.db
+
+# Design / large media sources
+*.psd
+*.ai
+*.eps
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Certificates and keys
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Uploaded / generated files
+manual/filevault/
+
+# Logs and temp
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
